@@ -17,13 +17,10 @@
 
 ---
 
-### Category Name 2
+### Blogs
 
-- [Project 1 Title](http://example.com/)
+- [Bayesian Methods_for_Data_Analysis](/posts/Bayesian_methods_for_data_ana.md)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
