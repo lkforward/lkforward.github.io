@@ -21,7 +21,8 @@
 
 - [Bayesian Methods_for_Data_Analysis](/posts/Bayesian_methods_for_data_ana)
 - [Project 2 Title](http://example.com/)
-- [Project 2 Title](https://lkforward.github.io/SLAM2D)
+- [SLAM2D](https://lkforward.github.io/SLAM2D)
+- [html test](/posts/df_merge_example.html)
 
 ---
 
