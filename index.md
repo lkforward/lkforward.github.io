@@ -20,6 +20,7 @@
 ### Blogs
 
 - [Bayesian Methods_for_Data_Analysis](/posts/Bayesian_methods_for_data_ana)
+- [SLAM2D] (https://lkforward.github.io/SLAM2D/Landmark Detection and Tracking.ipynb)
 - [Project 2 Title](http://example.com/)
 
 ---
