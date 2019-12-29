@@ -22,8 +22,8 @@
 - [Bayesian Methods_for_Data_Analysis](/posts/Bayesian_methods_for_data_ana)
 - [Project 2 Title](http://example.com/)
 - [SLAM2D](https://lkforward.github.io/SLAM2D)
-- [A Breif Introduction to Markov Chain](/posts/MCMC/part1_Markov_chain_theory.html)
-- [Markov Chain Monte Carlo and Metropolis Algorithm](/posts/MCMC/part2_MCMC_algo.html)
+- [Some Key Concepts in Discrete Time Markov Chain](/posts/MCMC/part1_Markov_chain_theory.html)
+- [An Efficient Sampling Method: Markov Chain Monte Carlo](/posts/MCMC/part2_MCMC_algo.html)
 
 ---
 
