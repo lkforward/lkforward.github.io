@@ -24,6 +24,7 @@
 - [SLAM2D](https://lkforward.github.io/SLAM2D)
 - [Some Key Concepts in Discrete Time Markov Chain](/posts/MCMC/part1_Markov_chain_theory.html)
 - [An Efficient Sampling Method: Revisiting Markov Chain Monte Carlo (MCMC)](/posts/MCMC/part2_MCMC_algo.html)
+- [Understanding Clouds from Satellite Imagery: A Deep Neural Network Model](/posts/MCMC/12292019_Understand_cloud.html)
 
 ---
 
