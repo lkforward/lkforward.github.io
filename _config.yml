@@ -1,12 +1,10 @@
 title: Ke Liu # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
-logo: "/images/IMG_1151.JPG?raw=true"
+logo: "/images/blog_title.JPG?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Tangible Math, Meaningful Code 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ke-liu-at-caltech/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
