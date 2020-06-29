@@ -29,7 +29,7 @@
 - [[Theory] An Breif Introduction to Group, Subgroup, and Coset](/posts/math4ml/01112020_Group_theory.html)
 - [[Algorithhm Design] Exhaustive Approach with Examples](/posts/algorithm/20200112_exaustive_methods.html)
 - [[Deep Learning] Understanding Clouds from Satellite Imagery: A Deep Neural Network Model](/posts/cloud_prj/12292019_Understand_cloud.html)
-- [[Deep Learning] Understanding Clouds from Satellite Imagery: A Deep Neural Network Model](/posts/cloud_prj/12292019_Understand_cloud.html)
+- [[Deep Learning] ADAM Optimizer and Its Implementation in pytorch](/posts/cloud_prj/[ART]20200628_optimizer_in_pytorch.html)
 
 ---
 
