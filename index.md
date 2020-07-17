@@ -27,7 +27,7 @@
 - [[Theory] An Efficient Sampling Method: Revisiting Markov Chain Monte Carlo (MCMC)](/posts/MCMC/part2_MCMC_algo.html)
 - [MCMC for Image Segmentation](/posts/MCMC/01052020_mcmc_segmentation.html)
 - [[Theory] An Breif Introduction to Group, Subgroup, and Coset](/posts/math4ml/01112020_Group_theory.html)
-- [[Theory] Matrix Norm] (/posts/math4ml/[Art]20200701_matrix_norm.html)
+- [[Theory] Matrix Norm](/posts/math4ml/[Art]20200701_matrix_norm.html)
 - [[Algorithhm Design] Exhaustive Approach with Examples](/posts/algorithm/20200112_exaustive_methods.html)
 - [[Deep Learning] Understanding Clouds from Satellite Imagery: A Deep Neural Network Model](/posts/cloud_prj/12292019_Understand_cloud.html)
 - [[Deep Learning] ADAM Optimizer and Its Implementation in pytorch](/posts/cloud_prj/[ART]20200628_optimizer_in_pytorch.html)
