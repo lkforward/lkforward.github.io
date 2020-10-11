@@ -46,6 +46,7 @@
 - [[Deep Learning] ADAM Optimizer and Its Implementation in pytorch](/posts/cloud_prj/[ART]20200628_optimizer_in_pytorch.html)
 - [[Deep Learning] Image Augmentation: a Part of Computer Vision Pipeline](/posts/cloud_prj/[Art]20200710_augmentation_with_unit_test.html)
 - [[Deep Learning] Building a Fully Convolutional Neural Network using SMP](/posts/cloud_prj/[Art]20200426_cnn_single_sample_test.html)
+
 ---
 
 
