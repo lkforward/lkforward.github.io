@@ -17,7 +17,7 @@
 ---
 --->
 
-### Blogs
+### MATH
 <!---
 - [Project 2 Title](http://example.com/)
 - [SLAM2D](https://lkforward.github.io/SLAM2D)
@@ -28,18 +28,24 @@
 - [[Theory] An Breif Introduction to Group, Subgroup, and Coset](/posts/math4ml/01112020_Group_theory.html)
 - [[Theory] Matrix Norm](/posts/math4ml/[Art]20200701_matrix_norm.html)
 - [[NOTES] Orthogonal Matrices, Eigenvalues and SVD](/posts/math4ml/1007_orthogonal_matrices_SVD.pdf)
-- [[Deep Learning] Understanding Clouds from Satellite Imagery: A Deep Neural Network Model](/posts/cloud_prj/12292019_Understand_cloud.html)
-- [[Deep Learning] ADAM Optimizer and Its Implementation in pytorch](/posts/cloud_prj/[ART]20200628_optimizer_in_pytorch.html)
-- [[Deep Learning] Image Augmentation: a Part of Computer Vision Pipeline](/posts/cloud_prj/[Art]20200710_augmentation_with_unit_test.html)
-- [[Deep Learning] Building a Fully Convolutional Neural Network using SMP](/posts/cloud_prj/[Art]20200426_cnn_single_sample_test.html)
 
-### Blogs
+### Algorithms
 <!---
 - [Project 2 Title](http://example.com/)
 - [SLAM2D](https://lkforward.github.io/SLAM2D)
 --->
 - [MCMC for Image Segmentation](/posts/MCMC/01052020_mcmc_segmentation.html)
 - [[Algorithhm Design] Exhaustive Approach with Examples](/posts/algorithm/20200112_exaustive_methods.html)
+
+### Machine Learning
+<!---
+- [Project 2 Title](http://example.com/)
+- [SLAM2D](https://lkforward.github.io/SLAM2D)
+--->
+- [[Deep Learning] Understanding Clouds from Satellite Imagery: A Deep Neural Network Model](/posts/cloud_prj/12292019_Understand_cloud.html)
+- [[Deep Learning] ADAM Optimizer and Its Implementation in pytorch](/posts/cloud_prj/[ART]20200628_optimizer_in_pytorch.html)
+- [[Deep Learning] Image Augmentation: a Part of Computer Vision Pipeline](/posts/cloud_prj/[Art]20200710_augmentation_with_unit_test.html)
+- [[Deep Learning] Building a Fully Convolutional Neural Network using SMP](/posts/cloud_prj/[Art]20200426_cnn_single_sample_test.html)
 ---
 
 
